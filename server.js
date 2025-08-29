@@ -9,4 +9,8 @@ app.use('/api', apiRoutes);
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(Server is running on port );
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 24d637aadd7691c8e6aaf5a33217f0bcc7346999
